@@ -1,7 +1,7 @@
 TnT Potatoes mod
 
-Primary location: github (unpublished)
+Primary location: Merged into pinklysheep mod
 
-Version checker enabled: TRUE
+Version checker enabled: n/a
 
-Current version: 1.0r8 (beta)
+Current version: n/a
